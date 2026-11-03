@@ -91,6 +91,12 @@ Tanu| Project Report and Documentation
 - Graphical user interface.
 - Advanced library reports.
 
+
+Team Roles:
+Shraddha Jarwal: C++ development, UML diagramme 
+Avikshit Chavan: PPT
+Tanushree Bibwe: ReadMe documentation
+GUIDED BY: Lalit Sir
 🎓 Academic Project
 
 Domain: Library Science / Information Management
